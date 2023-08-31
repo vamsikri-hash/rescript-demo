@@ -11,7 +11,7 @@ let captain = "Rohit"
 
 let currentSeries = "India tour of WI"
 let wicket = 'w'
-let t20s = 5.4
+let t20s = 5
 
 let unt = ()
 
